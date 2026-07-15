@@ -4,8 +4,8 @@
 
 ### Backend & Full-Stack Engineer · Building scalable platforms with Python & TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeebmirza)
-[![Email](https://img.shields.io/badge/Email-devilmirzaa3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devilmirzaa3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adeebmirza](https://www.linkedin.com/in/adeeb-mirza-120682215/))
+[![Email](https://img.shields.io/badge/Email-devilmirzaa3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeebmirzam3@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-adeebmirza.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://adeebmirza.github.io)
 
 </div>
@@ -100,7 +100,7 @@ I'm open to collaborating on backend systems, open-source tools, and AI-powered 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-adeebmirza-181717?style=for-the-badge&logo=github)](https://github.com/adeebmirza)
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devilmirzaa3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeebmirzam3@gmail.com)
 
 </div>
 
