@@ -4,9 +4,9 @@
 
 ### Backend & Full-Stack Engineer · Building scalable platforms with Python & TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adeebmirza](https://www.linkedin.com/in/adeeb-mirza-120682215/))
-[![Email](https://img.shields.io/badge/Email-devilmirzaa3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeebmirzam3@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-adeebmirza.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://adeebmirza.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeeb-mirza-120682215/)
+[![Email](https://img.shields.io/badge/Email-adeebmirzam3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeebmirzam3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-syncques.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://syncques.com/adeebmirza/portfolio)
 
 </div>
 
@@ -14,21 +14,30 @@
 
 ## About Me
 
-I'm a software engineer focused on **backend systems**, **API design**, and **full-stack product development**. I enjoy turning complex requirements into clean, production-ready architectures — from GraphQL APIs and real-time features to AI-powered workflows and cloud deployments.
+I'm a software engineer focused on **backend systems**, **API design**, and **full-stack product development**. I turn complex requirements into clean, production-ready architectures — from GraphQL APIs and real-time features to AI-powered workflows and cloud deployments.
 
-Currently building **[SyncQues](https://github.com/adeebmirza/SyncQues-Backend)** — a community-driven Q&A platform with profiles, events, search, and real-time notifications.
+Currently building **[SyncQues](https://github.com/SyncQues)** — a community-driven platform for learning, collaboration, and career growth — and **[IntelliHelper](https://github.com/IntelliHelper)** — an AI productivity platform that helps developers and teams ship faster with intelligent automation, reusable UI systems, and agent-ready tooling.
 
 ```python
 class AdeebMirza:
     def __init__(self):
         self.role = "Backend & Full-Stack Engineer"
         self.location = "India"
-        self.focus = ["FastAPI", "GraphQL", "MongoDB", "React", "AI/ML", "AWS"]
-        self.currently_building = "SyncQues Platform"
+        self.focus = ["FastAPI", "GraphQL", "MongoDB", "React", "AI Agents", "AWS"]
+        self.building = ["SyncQues", "IntelliHelper"]
 
     def open_to(self):
-        return ["Collaboration", "Open Source", "Backend Architecture", "AI Integrations"]
+        return ["Open Source", "Backend Architecture", "AI Integrations", "Design Systems"]
 ```
+
+---
+
+## Organizations
+
+| Organization | Focus |
+|--------------|-------|
+| [**SyncQues**](https://github.com/SyncQues) | Community platform — Q&A, profiles, events, and career tools |
+| [**IntelliHelper**](https://github.com/IntelliHelper) | AI productivity platform — Liquid Glass UI, CLI, MCP server, and agent plugins |
 
 ---
 
@@ -62,12 +71,27 @@ class AdeebMirza:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**SyncQues-Backend**](https://github.com/adeebmirza/SyncQues-Backend) | Community Q&A platform — GraphQL + REST, auth, search, notifications | `FastAPI` `Strawberry` `MongoDB` `Redis` `Celery` |
+| [**IntelliHelper UI**](https://ui.intellihelper.in/) | Liquid Glass design system — component playground, CLI, and MCP server for coding agents | `React` `TypeScript` `Tailwind` |
+| [**SyncQues-Backend**](https://github.com/adeebmirza/SyncQues-Backend) | Community Q&A platform — GraphQL + REST, auth, search, notifications | `FastAPI` `Strawberry` `MongoDB` `Redis` |
 | [**SyncQues-Frontend**](https://github.com/adeebmirza/SyncQues-Frontend) | Modern web client for the SyncQues platform | `React` `TypeScript` `Apollo` |
-| [**fastapi-redis-sdk**](https://github.com/adeebmirza/fastapi-redis-sdk) | Reusable FastAPI SDK for Redis caching & sessions | `Python` `FastAPI` `Redis` |
+| [**fastapi-redis-sdk**](https://github.com/adeebmirza/fastapi-redis-sdk) | Reusable FastAPI SDK for Redis caching, sessions & OpenTelemetry | `Python` `FastAPI` `Redis` |
 | [**Blue-Print-AI**](https://github.com/adeebmirza/Blue-Print-AI) | AI-powered application blueprint & architecture tooling | `TypeScript` |
 | [**Deployment**](https://github.com/adeebmirza/Deployment) | Infrastructure-as-code for cloud deployments | `Terraform` `HCL` `AWS` |
 | [**resume_ai**](https://github.com/adeebmirza/resume_ai) | AI-assisted resume analysis and optimization | `TypeScript` |
+
+---
+
+## Open Source Contributions
+
+I actively contribute to upstream projects and open ecosystems beyond my own repos.
+
+| Project | Contribution | Link |
+|---------|--------------|------|
+| **redis/fastapi-redis-sdk** | Fixed cache telemetry auto-enable when `REDIS_OTEL_ENABLED` is set | [PR #23](https://github.com/redis/fastapi-redis-sdk/pull/23) |
+| **xai-org/plugin-marketplace** | Added IntelliHelper UI plugin — Liquid Glass React components for Grok agents | [PR #86](https://github.com/xai-org/plugin-marketplace/pull/86) |
+| **IntelliHelper/IntelliHelper-UI** | UI components, MCP server, CLI releases, React Native glass kit, SEO & CI | [Org repo](https://github.com/IntelliHelper/IntelliHelper-UI) |
+
+> Building in public across Redis SDKs, AI agent marketplaces, and developer tooling.
 
 ---
 
@@ -75,10 +99,10 @@ class AdeebMirza:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adeebmirza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=adeebmirza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats-alpha.vercel.app/api?username=adeebmirza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=adeebmirza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeebmirza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=adeebmirza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -86,20 +110,22 @@ class AdeebMirza:
 
 ## What I'm Working On
 
-- Scaling **SyncQues** — communities, events, profiles, and real-time features
-- Building reusable **FastAPI** tooling and SDKs
-- Exploring **AI agents**, RAG pipelines, and production LLM integrations
-- Improving **observability** with Prometheus, structured logging, and secure API patterns
+- **IntelliHelper** — AI productivity platform with a Liquid Glass UI system, agent plugins, and MCP tooling → [ui.intellihelper.in](https://ui.intellihelper.in/)
+- **SyncQues** — scaling communities, events, profiles, and real-time features → [github.com/SyncQues](https://github.com/SyncQues)
+- Reusable **FastAPI** SDKs and Redis observability patterns
+- **AI agents**, RAG pipelines, and production LLM integrations
 
 ---
 
 ## Let's Connect
 
-I'm open to collaborating on backend systems, open-source tools, and AI-powered products.
+Open to collaborating on backend systems, open-source tools, design systems, and AI-powered products.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-adeebmirza-181717?style=for-the-badge&logo=github)](https://github.com/adeebmirza)
+[![SyncQues](https://img.shields.io/badge/SyncQues-Org-2563EB?style=for-the-badge&logo=github)](https://github.com/SyncQues)
+[![IntelliHelper](https://img.shields.io/badge/IntelliHelper-Org-7C3AED?style=for-the-badge&logo=github)](https://github.com/IntelliHelper)
 [![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeebmirzam3@gmail.com)
 
 </div>
